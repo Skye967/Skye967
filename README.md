@@ -6,7 +6,7 @@
 - <b><a href="https://kalani-commerce-indol.vercel.app/">Kalani-Commerce</a></b>
 - <b>American Academy of Excellence(School Directory for Schools in Africa)</b>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
 - <b>Coding Dojo(Software Devlopment Coding Bootcamp)</b>
   - Certificate of Full Stack Development
