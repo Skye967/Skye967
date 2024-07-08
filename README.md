@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b><a href="https://www.skye-grossman.com/">Skye-Grossman</a>(Work Portfolio)</b>
 - <b><a href="https://pocketchef.vercel.app/">PocketChef<a/>(AI powered recipe generator)</b>
 - <b><a href="https://kalani-commerce-indol.vercel.app/">Kalani-Commerce</a>(E-commerce Web App)</b>
 - <b>American Academy of Excellence(School Directory for Schools in Africa)</b>
