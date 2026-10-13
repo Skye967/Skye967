@@ -1,34 +1,26 @@
-<h1>Hi, I'm Skye! <br/><a href="https://www.linkedin.com/in/skye-grossman-62039521b/">Full Stack Developer</a></h1>
+# Hi, I'm Skye
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Full-stack developer from Maui. I build web apps end to end — UI, APIs, data layer,
+backend services — and I'm currently studying system architecture and building agents
+with LangChain.
 
-- <b><a href="https://www.skye-grossman.com/">Skye-Grossman</a>(Work Portfolio)</b>
-- <b><a href="https://pocketchef.vercel.app/">PocketChef<a/>(AI powered recipe generator)</b>
-- <b><a href="https://kalani-commerce-indol.vercel.app/">Kalani-Commerce</a>(E-commerce Web App)</b>
-- <b>American Academy of Excellence(School Directory for Schools in Africa)</b>
+## What I'm building
 
-<h2>📜 Certifications:</h2>
+**[Holster](https://github.com/Skye967/holster)** — search and recommendation across the
+streaming services you actually pay for. Say what you're in the mood for and get back
+something you can watch tonight, on a service you already have. Next.js and TypeScript
+on the front, a Go gateway, a Python/LangChain agent, Supabase underneath.
+[Live](https://holster.up.railway.app) ·
+[Architecture](https://github.com/Skye967/holster/blob/main/ARCHITECTURE.md)
 
-- <b>Coding Dojo(Software Devlopment Coding Bootcamp)</b>
-  - Certificate of Full Stack Development
+## How I work
 
-<h2> 🤳 Connect with me:</h2>
+Every change is a branch, a pull request, and a green CI run, including the ones an
+agent writes. The hard part is no longer writing code; it's trusting it.
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Elsewhere
 
-[linkedin]: https://www.linkedin.com/in/skye-grossman-62039521b/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[skye-grossman.com](https://www.skye-grossman.com) ·
+[LinkedIn](https://www.linkedin.com/in/skye-grossman) ·
+[Resume](https://www.skye-grossman.com/skye-grossman-resume.pdf) ·
+skye.grossman@gmail.com
